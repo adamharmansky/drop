@@ -11,10 +11,10 @@ Simple X11 live wallpaper:
 
 ## Dependencies
 
-## Building
-
  - Xlib
  - cairo
+
+## Building
 
 To build and install, just run:
 
